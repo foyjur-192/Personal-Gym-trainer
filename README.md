@@ -8,7 +8,7 @@
 
 # Live Website Link- https://personal-gym-trainer-c75ff.web.app/
 
-# GitHub Link -https://github.com/programming-hero-web-course-4/independent-service-provider-foyjur-192.git
+# GitHub Link- https://github.com/programming-hero-web-course-4/independent-service-provider-foyjur-192.git
 
 
 
