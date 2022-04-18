@@ -5,11 +5,10 @@ import Blog from './components/Blog/Blog';
 import CheckOut from './components/CheckOut/CheckOut';
 import Content from './components/Contents/Content';
 import Footer from './components/Footer/Footer';
-
-
 import Header from './components/Header/Header';
 import Home from './components/Home/Home';
 import LogIn from './components/Login/LogIn';
+import NotFound from './components/PageNotFound/NotFound';
 import RequireAuth from './components/RequireAuth/RequireAuth';
 import Signup from './components/Signup/Signup';
 
@@ -31,7 +30,7 @@ function App() {
        <Route path='/checkout' element={
          <RequireAuth><CheckOut></CheckOut></RequireAuth>
        }> </Route>
-        
+         <Route path='*' element ={ <NotFound></NotFound>}> </Route>
      </Routes>
      <Footer></Footer>
     </div>
