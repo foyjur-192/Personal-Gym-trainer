@@ -1,0 +1,16 @@
+.boxes{
+    margin: 50px 140px;
+    text-align: left;
+    padding-bottom: 30px;
+
+}
+
+.boxes h2{
+    color: #222;
+}
+.boxes p{
+    font-family: 'Roboto';
+    font-size: 18px;
+    line-height: 1.5;
+    color: #444;
+}

@@ -1,0 +1,214 @@
+
+.container-box{
+    margin-bottom: 0px;
+}
+
+@media screen and (max-width: 600px) {
+    .container-box{
+        margin-bottom: 0px;
+    }
+}
+
+
+.BackgroundH{
+    background: url('https://i.ibb.co/7SPy3LH/Rectangle-12.png');
+    background-repeat: no-repeat;
+    height: 785px;
+    background-size: cover;
+    -ms-text-combine-horizontal: right;
+}
+.Hero-text{
+    margin: 0px 140px;
+    align-items: left;
+    position:absolute;
+}
+.text{
+    padding-top: 200px;
+    font-family: 'Roboto';
+    color: #fff;
+    font-size: 64px;
+    text-align: left;
+    font-weight: 800;
+    line-height: 1.1;
+
+}
+
+
+
+
+
+.Hero-text p{
+    font-size: 18px;
+    color: #fff;
+    text-align: left;
+    font-family: 'open sans';
+    margin-top: 40px;
+    line-height: 1.5;
+}
+
+.btnH{
+    padding: 12px 20px;
+    margin-right: 500px;
+    margin-top: 40px;
+    background-color: #2ED1DE;
+    font-family: 'Roboto';
+    font-size: 18px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 600;
+    transition: transform 250ms;
+}
+
+.btnH:hover{
+    background-color: #fff;
+    transform: translateY(-7px);
+    color: #222;
+}
+
+@media screen and (max-width: 600px) {
+    .BackgroundH{
+        background: url('https://i.ibb.co/7SPy3LH/Rectangle-12.png');
+        background-repeat: no-repeat;
+        height: 500px;
+        background-size: cover;
+       
+    }
+    .Hero-text{
+        margin: 0px 20px;
+        align-items: left;
+        position:absolute;
+    }
+    .text{
+        padding-top: 100px;
+        font-family: 'Roboto';
+        color: #fff;
+        font-size: 32px;
+        text-align: left;
+        font-weight: 800;
+        line-height: 1.1;
+    
+    }
+
+    .Hero-text p{
+        font-size: 16px;
+        color: #fff;
+        text-align: left;
+        font-family: 'open sans';
+        margin-top: 40px;
+        line-height: 1.5;
+    }
+
+    .btnH {
+        width: 164px;
+        height: 56px;
+     
+        margin-top: 40px;
+        font-family: 'Roboto';
+        font-size: 16px;
+        border-radius: 5px;
+        font-weight: 600;
+        text-decoration: none;
+    }
+
+ 
+}
+
+
+
+
+
+span{
+    color: #2ED1DE;
+}
+
+.textBox h3{
+    font-size: 40px;
+    font-family: 'Roboto';
+    color: #222;
+    margin-top: 96px;
+    margin-bottom: 64px;
+}
+
+.SectionTwo{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+    margin: 0px 140px;
+  
+}
+
+@media screen and (max-width: 600px) {
+   
+    .textBox h3{
+        font-size: 24px;
+        font-family: 'Roboto';
+        color: #222;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    .SectionTwo{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 10px;
+        margin: 0px 20px;
+      
+     
+        
+    }
+ 
+
+}
+
+
+
+
+
+
+
+
+.BackgroundC{
+    background-color: #DEF4F5;
+    margin-top: 80px;
+    height: 550px;
+}
+.SectionThree{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+    margin: 0px 140px;
+    background-color: #DEF4F5;
+    
+}
+
+.Headline3 h2 {
+    font-family: 'Roboto';
+    font-size: 40px;
+    padding-top: 80px;
+}
+
+@media screen and (max-width: 600px) {
+
+    .BackgroundC{
+        background-color: #ffffff;
+      
+    }
+
+    .Headline3 h2 {
+        font-family: 'Roboto';
+        font-size: 30px;
+        padding-top: 1px;
+    }
+
+
+    .SectionThree{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 10px;
+        margin: 0px 20px;
+        background-color: #ffffff;
+        
+    }
+
+
+}

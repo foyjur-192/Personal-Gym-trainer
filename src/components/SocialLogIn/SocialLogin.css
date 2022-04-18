@@ -1,0 +1,26 @@
+
+.buttonG {
+    width: 400px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+
+.buttonG{
+    font-size: 18px;
+}
+
+
+.buttonG img{
+    margin-right: 20px;
+    width: 25px;
+    height: 25px;
+}
+
+
+.btn-space{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

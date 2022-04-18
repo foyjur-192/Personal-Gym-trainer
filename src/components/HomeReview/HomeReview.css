@@ -1,0 +1,54 @@
+.backColor{
+background-color: #fff;
+padding: 30px;
+margin-top: 20%;
+
+}
+
+
+
+.backColor h4{
+    text-align: left;
+    margin-top: -10px;
+    color: #444;
+   
+}
+
+.backColor p{
+   color: #444;
+   text-align: left;
+   margin-bottom: 20px;
+   line-height: 1.5;
+}
+.starGroup{
+    display: flex;
+   
+}
+.starGroup p {
+    width: 23px;
+    height: 23px;
+    color: coral;
+    margin-right: 5px;
+}
+
+.comma{
+    font-size: 80px;
+}
+
+
+@media screen and (max-width: 600px) {
+    .backColor{
+        background-color: rgb(228, 248, 251);
+        padding: 20px;
+        margin-bottom: -30px;
+        margin-top: 6%;
+    }
+
+    .backColor h4{
+        text-align: left;
+        margin-top: -10px;
+        color: #444;
+       
+    }
+
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "Nutrition ",
+    "price": "299 per year",
+    "details": "Learn almost and actualize dietary procedures that will change your physical make-up without feeling starved",
+    "img": "https://i.ibb.co/d6sVqRz/Cauliflower.png"
+  },
+  {
+    "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+    "name": "Lifestyle",
+    "price": "299 per year",
+    "details": "Learn approximately and execute imperative way of life propensities to begin feeling astounding on the interior and looking extraordinary on the exterior. ",
+    "img": "https://i.ibb.co/5L50CdC/Squats-Skin-Type-4.png"
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "name": "Exercise",
+    "price": "299 per year",
+    "details": "Custom-made, organized, time-efficient & dynamic work out program to cater for your prerequisites and goals.",
+    "img": "https://i.ibb.co/xs5mJrv/Exercise.png"
+    
+  }
+]

@@ -1,0 +1,62 @@
+.backgroundColor{
+    background-image: linear-gradient(#e8fafb, #e8ffef3b);
+    padding-left:20px;
+    padding-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    transition: transform .2s;
+    margin: 0 auto;
+}
+
+.backgroundColor:hover {
+    transform: scale(1.2);
+}
+
+
+
+h4{
+    font-size: 20px;
+    font-family: 'Roboto';
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.backgroundColor p{
+    font-size: 16px;
+    color: #444;
+    text-align: center;
+    margin-top: 8px;
+    line-height: 1.5;
+   
+}
+
+.button{
+    padding: 8px 20px;
+    border-radius: 5px;
+    border: 1px solid #2ED1DE;
+    background-color: #fff;
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 500;
+
+}
+
+.button:hover{
+    background-color: #2ED1DE;
+    color: #fff;
+}
+
+.price {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-family: 'Roboto';
+    font-size: 40px;
+    color: #222;
+}
+
+.price span{
+    font-size: 18px;
+    font-weight: 200;
+    color: #444;
+}
